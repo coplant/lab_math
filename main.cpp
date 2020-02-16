@@ -32,4 +32,5 @@ int main()
 		processInt(h, intervalA, intervalB, countN, resultInt);
 	}
 	cout << "I = " << resultInt << endl;
+	cout << "N = " << countN << endl;
 }
